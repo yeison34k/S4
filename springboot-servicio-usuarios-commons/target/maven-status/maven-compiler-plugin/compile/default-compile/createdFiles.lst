@@ -1,0 +1,4 @@
+com\formacionbdi\springboot\app\usuarios\commons\SpringBootServiceUsers.class
+com\formacionbdi\springboot\app\usuarios\commons\entity\Role.class
+com\formacionbdi\springboot\app\usuarios\commons\entity\UserRole.class
+com\formacionbdi\springboot\app\usuarios\commons\entity\User.class
